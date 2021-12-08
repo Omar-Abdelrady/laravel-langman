@@ -1,5 +1,5 @@
 {
-    "name": "themsaid/laravel-langman",
+    "name": "Omar-Abdelrady/laravel-langman",
     "description": "Manage language files with ease.",
     "keywords": ["laravel", "localization", "multilingual"],
     "homepage": "https://github.com/themsaid/laravel-langman",
@@ -12,7 +12,7 @@
         }
     ],
     "require": {
-        "php": "^5.5.9 || ^7.0",
+        "php": "^7.1",
         "illuminate/support": "~5.1",
         "illuminate/console": "~5.1",
         "illuminate/filesystem": "~5.1"
